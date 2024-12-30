@@ -1,0 +1,8 @@
+{
+  "name": "myPage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Insu-Lee/myPage.git",
+  "author": "<in63119@gmail.com>",
+  "license": "MIT"
+}
